@@ -6,7 +6,7 @@ public class Main {
     static void main(String[] args) {
         Map<String, String> studentMap = new HashMap<>();
         Scanner scanner = new Scanner(System.in);
-//salam
+
         System.out.println("--- Student Management System (JDK 25) ---");
 
         while (true) {
